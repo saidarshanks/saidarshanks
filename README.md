@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm SaidarshanKS
 
-<!--
-**saidarshanks/saidarshanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about technology and software development.  
+💻 Currently learning HTML, CSS, and Python.  
+🚀 I enjoy building projects and improving my skills step by step.  
 
-Here are some ideas to get you started:
+## 🔧 What I'm Working On
+- Improving my personal portfolio website  
+- Practicing Python problem solving  
+- Learning how real-world projects are built  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Goals
+- Become a skilled software developer  
+- Build useful and creative projects  
+- Pursue higher education abroad  
+
+## 🔗 My Work
+- 🌐 Portfolio:
+https://saidarshanks.github.io/portfolio/
+
+## 📫 Contact
+- Email: saidarshanks.dev@gmail.com  
+- GitHub:https://github.com/saidarshanks
