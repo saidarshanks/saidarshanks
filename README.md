@@ -21,3 +21,5 @@ https://saidarshanks.github.io/portfolio/
 ## 📫 Contact
 - Email: saidarshanks.dev@gmail.com  
 - GitHub:https://github.com/saidarshanks
+- linkedin:
+https://www.linkedin.com/in/saidarshan-ks-1161453bb
